@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="YMMServer/YMMServer/src"/>
+	<classpathentry kind="src" path="YouMokMin/src"/>
+	<classpathentry kind="lib" path="YMMServer/YMMServer/lib/mariadb-java-client-2.7.3.jar"/>
+	<classpathentry kind="lib" path="YouMokMin/lib/mariadb-java-client-2.7.3.jar"/>
+	<classpathentry kind="output" path="YMMServer/YMMServer/bin"/>
+</classpath>
